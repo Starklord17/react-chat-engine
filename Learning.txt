@@ -1,3 +1,0 @@
-What does npm install --legacy-peer-deps do exactly? When is it recommended / What's a potential use case?
-https://stackoverflow.com/questions/66239691/what-does-npm-install-legacy-peer-deps-do-exactly-when-is-it-recommended-wh
-
