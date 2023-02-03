@@ -12,3 +12,5 @@ https://msteams-chatengine.netlify.app/
 Test:
 Username: MaxS
 Password: 123123
+
+(API calls made to "ChatEngine" no longer work).
